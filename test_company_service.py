@@ -17,7 +17,7 @@ def test_get_all_companies(url: str):
      'name': 'Lockheed Martin',
      'description': 'Lockheed Martin is an American aerospace, defense, arms, security, and advanced technologies company.',
      'staff': '110,000+ employees',
-     'focus_area': 'Aerospace, defense, security, advanced technologies'},
+     'age': 'Aerospace, defense, security, advanced technologies'},
     {'companies_id': 4,
      'name': 'Airbus',
      'description': 'Airbus SE is a European multinational aerospace corporation that designs, manufactures, and sells civil and military aeronautical products worldwide.',
